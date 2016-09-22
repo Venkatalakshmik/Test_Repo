@@ -63,7 +63,7 @@
                             <outputDirectory>${basedir}/target/apiproxy</outputDirectory>
                             <resources>
                                 <resource>
-                                    <directory>apiproxy</directory>
+                                    <directory>${basedir}y</directory>
                                 </resource>
                             </resources>
                         </configuration>
